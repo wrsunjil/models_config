@@ -1,22 +1,43 @@
 [
   {
     "id": "gemini-2.5-flash-lite",
-    "name": "Gemini 2.5 Flash Lite"
+    "name": "Gemini 2.5 Flash Lite",
+    "provider": "google"
   },
   {
     "id": "gemini-2.5-flash",
-    "name": "Gemini 2.5 Flash"
+    "name": "Gemini 2.5 Flash",
+    "provider": "google"
   },
   {
     "id": "gemini-3-flash-preview",
-    "name": "Gemini 3.0 Flash Preview"
+    "name": "Gemini 3.0 Flash Preview",
+    "provider": "google"
   },
   {
     "id": "gemini-3-pro-preview",
-    "name": "Gemini 3.0 Pro Preview"
+    "name": "Gemini 3.0 Pro Preview",
+    "provider": "google"
   },
   {
     "id": "gemini-next-gen",
-    "name": "Gemini Next Gen (New!)"
+    "name": "Gemini Next Gen (New!)",
+    "provider": "google"
+  },
+  {
+    "id": "openai/gpt-4o-mini",
+    "name": "GPT-4o Mini (OpenRouter)",
+    "provider": "openrouter"
+  },
+  {
+    "id": "anthropic/claude-3-haiku",
+    "name": "Claude 3 Haiku (OpenRouter)",
+    "provider": "openrouter"
+  },
+  {
+    "id": "a4f-model-1",
+    "name": "A4F Model 1",
+    "provider": "a4f",
+    "endpoint": "https://api.a4f.com/v1"
   }
 ]
