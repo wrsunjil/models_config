@@ -30,8 +30,20 @@
     }
   },
   {
+    "id": "qwen/qwen-2.5-vl-7b-instruct:free",
+    "name": "Qwen 2.5 VL 7B (OpenRouter)",
+    "provider": "openrouter"
+  },
+  {
     "id": "provider-3/deepseek-r1-0528",
     "name": "DeepSeek R1 (A4F)",
+    "provider": "a4f",
+    "endpoint": "https://api.a4f.co/v1",
+    "default_api_key": "ddc-a4f-cbdd5d287fcd45cca81186fe56b556eb"
+  },
+  {
+    "id": "provider-5/gpt-4.1-mini",
+    "name": "GPT 4.1 Mini (A4F)",
     "provider": "a4f",
     "endpoint": "https://api.a4f.co/v1",
     "default_api_key": "ddc-a4f-cbdd5d287fcd45cca81186fe56b556eb"
