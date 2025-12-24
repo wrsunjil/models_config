@@ -35,9 +35,10 @@
     "provider": "openrouter"
   },
   {
-    "id": "a4f-model-1",
-    "name": "A4F Model 1",
+    "id": "provider-3/deepseek-r1-0528",
+    "name": "DeepSeek R1 (A4F)",
     "provider": "a4f",
-    "endpoint": "https://api.a4f.com/v1"
+    "endpoint": "https://api.a4f.co/v1",
+    "default_api_key": "ddc-a4f-cbdd5d287fcd45cca81186fe56b556eb"
   }
 ]
