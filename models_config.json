@@ -20,18 +20,8 @@
     "provider": "google"
   },
   {
-    "id": "gemini-next-gen",
-    "name": "Gemini Next Gen (New!)",
-    "provider": "google"
-  },
-  {
-    "id": "openai/gpt-4o-mini",
-    "name": "GPT-4o Mini (OpenRouter)",
-    "provider": "openrouter"
-  },
-  {
-    "id": "anthropic/claude-3-haiku",
-    "name": "Claude 3 Haiku (OpenRouter)",
+    "id": "nex-agi/deepseek-v3.1-nex-n1:free",
+    "name": "DeepSeek V3.1 (OpenRouter)",
     "provider": "openrouter"
   },
   {
