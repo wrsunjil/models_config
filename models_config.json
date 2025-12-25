@@ -12,7 +12,8 @@
   {
     "id": "gemini-3-flash-preview",
     "name": "Gemini 3.0 Flash Preview",
-    "provider": "google"
+    "provider": "google",
+    "is_default": true
   },
   {
     "id": "gemini-3-pro-preview",
