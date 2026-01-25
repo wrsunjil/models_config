@@ -1,14 +1,10 @@
 {
-  "enabled": false,
-  "autoSlide": true,
+  "enabled": true,
+  "autoSlide": false,
   "ads": [
     {
-      "imageUrl": "https://dl.dropbox.com/scl/fi/zx62dsdw5i9zxt6hxmij0/banner1.png?rlkey=8geppfnetnp8fpjepsw3pmp7z&st=b4adv0hg",
-      "clickUrl": "https://charucloset.com/product/premium-quality-digital-print-cotton-three-piece-col-4"
-    },
-    {
-      "imageUrl": "https://dl.dropbox.com/scl/fi/0z4cxzlh3oh3xr7400i4h/banner2.png?rlkey=wkq2qxsmlij5z08z72yabwj89&st=l5ibf82g",
-      "clickUrl": "https://charucloset.com/product/exclusive-floral-print-cotton-salwar-kameez-col-5"
+      "imageUrl": "https://dl.dropbox.com/scl/fi/505x2qi92ehpa60ocr2sn/skinwise.png?rlkey=l437mliu2zisc1wd1dkylvomh&st=s09fvlwp",
+      "clickUrl": "https://play.google.com/store/apps/details?id=app.web.wsappsdevs.skinwise"
     }
   ]
 }
