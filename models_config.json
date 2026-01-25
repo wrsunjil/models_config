@@ -36,12 +36,5 @@
     "provider": "a4f",
     "endpoint": "https://api.a4f.co/v1",
     "default_api_key": "ddc-a4f-cbdd5d287fcd45cca81186fe56b556eb"
-  },
-  {
-    "id": "provider-5/gpt-4.1-mini",
-    "name": "GPT 4.1 Mini (A4F)",
-    "provider": "a4f",
-    "endpoint": "https://api.a4f.co/v1",
-    "default_api_key": "ddc-a4f-cbdd5d287fcd45cca81186fe56b556eb"
   }
 ]
