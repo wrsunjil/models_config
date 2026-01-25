@@ -1,5 +1,6 @@
 {
   "enabled": true,
+  "autoSlide": false,
   "ads": [
     {
       "imageUrl": "https://dl.dropbox.com/scl/fi/zx62dsdw5i9zxt6hxmij0/banner1.png?rlkey=8geppfnetnp8fpjepsw3pmp7z&st=b4adv0hg",
