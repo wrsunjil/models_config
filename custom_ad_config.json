@@ -1,9 +1,13 @@
 {
-  "enabled": false,
-  "autoSlide": false,
+  "enabled": true,
+  "autoSlide": true,
   "ads": [
     {
-      "imageUrl": "https://dl.dropbox.com/scl/fi/505x2qi92ehpa60ocr2sn/skinwise.png?rlkey=l437mliu2zisc1wd1dkylvomh&st=s09fvlwp",
+      "imageUrl": "https://typetales.pages.dev/a/mediwise.png",
+      "clickUrl": "https://play.google.com/store/apps/details?id=app.web.wsappsdevs.mediwise"
+    },
+	{
+      "imageUrl": "https://typetales.pages.dev/a/skinwise.png",
       "clickUrl": "https://play.google.com/store/apps/details?id=app.web.wsappsdevs.skinwise"
     }
   ]
