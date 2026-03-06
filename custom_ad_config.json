@@ -1,14 +1,10 @@
 {
-  "enabled": false,
-  "autoSlide": true,
+  "enabled": true,
+  "autoSlide": false,
   "ads": [
-    {
-      "imageUrl": "https://typetales.pages.dev/a/mediwise.png",
-      "clickUrl": "https://play.google.com/store/apps/details?id=app.web.wsappsdevs.mediwise"
-    },
 	{
-      "imageUrl": "https://typetales.pages.dev/a/skinwise.png",
-      "clickUrl": "https://play.google.com/store/apps/details?id=app.web.wsappsdevs.skinwise"
+      "imageUrl": "https://typetales.pages.dev/a/dalilbondhu.png",
+      "clickUrl": "https://play.google.com/store/apps/details?id=app.web.wsappsdevs.dalilbondhu"
     }
   ]
 }
