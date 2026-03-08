@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "autoSlide": false,
   "minVersionCodes": {
     "net.wsapps.alllawsofbangladesh": 36,
