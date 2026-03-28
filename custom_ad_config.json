@@ -1,9 +1,10 @@
 {
-  "enabled": false,
+  "enabled": true,
   "autoSlide": false,
   "minVersionCodes": {
     "net.wsapps.alllawsofbangladesh": 36,
-    "app.web.wsappsdevs.dalilbondhu": 10
+    "app.web.wsappsdevs.dalilbondhu": 10,
+    "net.wsapps.golpokothok": 1
   },
   "ads": [
     {
