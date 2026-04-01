@@ -26,8 +26,8 @@
     "provider": "google"
   },
   {
-    "id": "google/gemma-3-4b-it:free",
-    "name": "Gemma 3 4B (OpenRouter)",
+    "id": "openai/gpt-oss-120b:free",
+    "name": "GPT OSS 120B (OpenRouter)",
     "provider": "openrouter",
     "extra_body": {
       "reasoning": {
