@@ -28,7 +28,12 @@
   {
     "id": "openai/gpt-oss-120b:free",
     "name": "GPT OSS 120B (OpenRouter)",
-    "provider": "openrouter"
+    "provider": "openrouter",
+    "extra_body": {
+      "reasoning": {
+        "enabled": true
+      }
+    }
   },
   {
     "id": "provider-3/deepseek-r1-0528",
