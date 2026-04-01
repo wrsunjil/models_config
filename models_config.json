@@ -28,16 +28,11 @@
   {
     "id": "openai/gpt-oss-120b:free",
     "name": "GPT OSS 120B (OpenRouter)",
-    "provider": "openrouter",
-    "extra_body": {
-      "reasoning": {
-        "enabled": true
-      }
-    }
+    "provider": "openrouter"
   },
   {
-    "id": "openai/gpt-oss-120b:free",
-    "name": "GPT OSS 120B (A4F)",
+    "id": "provider-3/deepseek-r1-0528",
+    "name": "DeepSeek R1 (A4F)",
     "provider": "a4f",
     "endpoint": "https://openrouter.ai/api/v1",
     "default_api_key": "ddc-a4f-cbdd5d287fcd45cca81186fe56b556eb"
