@@ -26,8 +26,8 @@
     "provider": "google"
   },
   {
-    "id": "nvidia/nemotron-nano-12b-v2-vl:free",
-    "name": "Nemotron 12B VL (OpenRouter)",
+    "id": "google/gemma-3-4b-it:free",
+    "name": "Gemma 3 4B (OpenRouter)",
     "provider": "openrouter",
     "extra_body": {
       "reasoning": {
