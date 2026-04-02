@@ -1,15 +1,5 @@
 [
   {
-    "id": "gemini-2.5-flash-lite",
-    "name": "Gemini 2.5 Flash Lite",
-    "provider": "google"
-  },
-  {
-    "id": "gemini-2.5-flash",
-    "name": "Gemini 2.5 Flash",
-    "provider": "google"
-  },
-  {
     "id": "gemini-3-flash-preview",
     "name": "Gemini 3.0 Flash Preview",
     "provider": "google",
@@ -24,22 +14,5 @@
     "id": "gemini-3.1-flash-lite-preview",
     "name": "Gemini 3.1 flash lite Preview",
     "provider": "google"
-  },
-  {
-    "id": "openai/gpt-oss-120b:free",
-    "name": "GPT OSS 120B (OpenRouter)",
-    "provider": "openrouter",
-    "extra_body": {
-      "reasoning": {
-        "enabled": true
-      }
-    }
-  },
-  {
-    "id": "provider-3/deepseek-r1-0528",
-    "name": "DeepSeek R1 (A4F)",
-    "provider": "a4f",
-    "endpoint": "https://openrouter.ai/api/v1",
-    "default_api_key": "ddc-a4f-cbdd5d287fcd45cca81186fe56b556eb"
   }
 ]
