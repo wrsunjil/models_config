@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "enabledApps": {
+    "net.wsapps.golpokothok": true,
+    "net.wsapps.alllawsofbangladesh": false,
+    "app.web.wsappsdevs.dalilbondhu": false
+  },
+  "autoSlide": false,
+  "minVersionCodes": {
+    "net.wsapps.alllawsofbangladesh": 37,
+    "app.web.wsappsdevs.dalilbondhu": 10,
+    "net.wsapps.golpokothok": 1
+  },
+  "ads": [
+    {
+      "imageUrl": "https://typetales.pages.dev/a/dalilbondhu.png",
+      "clickUrl": "https://play.google.com/store/apps/details?id=app.web.wsappsdevs.dalilbondhu"
+    }
+  ]
+}
