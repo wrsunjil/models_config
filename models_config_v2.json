@@ -1,0 +1,72 @@
+{
+  "providers": {
+    "google": {
+      "name": "Google Gemini",
+      "api_type": "gemini",
+      "base_url": "https://generativelanguage.googleapis.com/v1beta",
+      "api_key_url": "https://aistudio.google.com/app/apikey",
+      "api_key_steps": [
+        "Google AI Studio ওয়েবসাইটে যান।",
+        "\"Get API key\" বোতামে ক্লিক করুন।",
+        "\"Create API key\" তে ক্লিক করে নতুন কী তৈরি করুন।",
+        "তৈরি করা কী টি কপি করে অ্যাপে পেস্ট করুন।"
+      ]
+    },
+    "openrouter": {
+      "name": "OpenRouter",
+      "api_type": "openai",
+      "base_url": "https://openrouter.ai/api/v1/chat/completions",
+      "api_key_url": "https://openrouter.ai/keys",
+      "api_key_steps": [
+        "OpenRouter.ai ওয়েবসাইটে যান।",
+        "আপনার অ্যাকাউন্টে লগইন করুন বা সাইন আপ করুন।",
+        "\"Keys\" মেনুতে গিয়ে নতুন কী তৈরি করুন।",
+        "কী টি কপি করে অ্যাপে পেস্ট করুন।"
+      ]
+    },
+    "groq": {
+      "name": "Groq",
+      "api_type": "openai",
+      "base_url": "https://api.groq.com/openai/v1/chat/completions",
+      "api_key_url": "https://console.groq.com/keys",
+      "api_key_steps": [
+        "Groq Console ওয়েবসাইটে যান।",
+        "সাইন আপ বা লগইন করুন।",
+        "\"API Keys\" পেজে গিয়ে নতুন কী তৈরি করুন।",
+        "কী টি কপি করে অ্যাপে পেস্ট করুন।"
+      ]
+    }
+  },
+  "models": [
+    {
+      "id": "gemini-3-flash-preview",
+      "name": "Gemini 3.0 Flash",
+      "provider": "google",
+      "is_default": true
+    },
+    {
+      "id": "gemini-3-pro-preview",
+      "name": "Gemini 3.0 Pro",
+      "provider": "google"
+    },
+    {
+      "id": "openai/gpt-oss-120b:free",
+      "name": "GPT OSS 120B",
+      "provider": "openrouter",
+      "extra_body": {
+        "reasoning": {
+          "enabled": true
+        }
+      }
+    },
+    {
+      "id": "openai/gpt-oss-120b",
+      "name": "GPT OSS 120B (Groq)",
+      "provider": "groq",
+      "extra_body": {
+        "reasoning_effort": "medium",
+        "max_completion_tokens": 8192
+      }
+    }
+  ]
+}
