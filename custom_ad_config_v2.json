@@ -3,7 +3,7 @@
   "enabledApps": {
     "net.wsapps.golpokothok": {
       "android": false,
-      "windows": true
+      "windows": false
     },
     "net.wsapps.alllawsofbangladesh": {
       "android": false,
