@@ -1,9 +1,9 @@
 {
   "enabled": true,
   "enabledApps": {
-    "net.wsapps.golpokothok": true,
-    "net.wsapps.alllawsofbangladesh": false,
-    "app.web.wsappsdevs.dalilbondhu": false
+    "net.wsapps.golpokothok": ["android", "windows"],
+    "net.wsapps.alllawsofbangladesh": ["android"],
+    "app.web.wsappsdevs.dalilbondhu": ["android"]
   },
   "autoSlide": false,
   "minVersionCodes": {
