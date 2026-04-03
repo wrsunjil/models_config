@@ -19,20 +19,8 @@
       "api_key_url": "https://openrouter.ai/keys",
       "api_key_steps": [
         "OpenRouter.ai ওয়েবসাইটে যান।",
-        "আপনার অ্যাকাউন্টে লগইন করুন বা সাইন আপ করুন।",
+        "আপনার অ্যাকাউেন্টে লগইন করুন বা সাইন আপ করুন।",
         "\"Keys\" মেনুতে গিয়ে নতুন কী তৈরি করুন।",
-        "কী টি কপি করে অ্যাপে পেস্ট করুন।"
-      ]
-    },
-    "groq": {
-      "name": "Groq",
-      "api_type": "openai",
-      "base_url": "https://api.groq.com/openai/v1/chat/completions",
-      "api_key_url": "https://console.groq.com/keys",
-      "api_key_steps": [
-        "Groq Console ওয়েবসাইটে যান।",
-        "সাইন আপ বা লগইন করুন।",
-        "\"API Keys\" পেজে গিয়ে নতুন কী তৈরি করুন।",
         "কী টি কপি করে অ্যাপে পেস্ট করুন।"
       ]
     }
@@ -55,23 +43,9 @@
       "provider": "google"
     },
     {
-      "id": "openai/gpt-oss-120b:free",
-      "name": "GPT OSS 120B",
-      "provider": "openrouter",
-      "extra_body": {
-        "reasoning": {
-          "enabled": true
-        }
-      }
-    },
-    {
-      "id": "openai/gpt-oss-120b",
-      "name": "GPT OSS 120B (Groq)",
-      "provider": "groq",
-      "extra_body": {
-        "reasoning_effort": "medium",
-        "max_completion_tokens": 8192
-      }
+      "id": "google/gemma-3-27b-it:free",
+      "name": "Gemma 3 27B",
+      "provider": "openrouter"
     }
   ]
 }
