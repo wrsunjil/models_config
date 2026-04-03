@@ -47,8 +47,8 @@
       "provider": "google"
     },
     {
-      "id": "meta-llama/llama-3.2-3b-instruct:free",
-      "name": "Lama 3.2 3B",
+      "id": "google/gemma-3-27b-it:free",
+      "name": "Gemma 3 27B",
       "provider": "openrouter"
     }
   ]
