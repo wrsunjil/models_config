@@ -22,7 +22,11 @@
         "আপনার অ্যাকাউেন্টে লগইন করুন বা সাইন আপ করুন।",
         "\"Keys\" মেনুতে গিয়ে নতুন কী তৈরি করুন।",
         "কী টি কপি করে অ্যাপে পেস্ট করুন।"
-      ]
+      ],
+      "headers": {
+        "HTTP-Referer": "https://github.com/wrsunjil/models_config",
+        "X-Title": "AI Models System"
+      }
     }
   },
   "models": [
