@@ -1,10 +1,10 @@
 {
-  "enabled": true,
+  "enabled": false,
   "packages": {
     "AI_Tokens_50": {
       "title": "এআই টপ-আপ",
       "subtitle": "১০০টি এআই ক্রেডিট",
-      "price": 5.0,
+      "price": 100.0,
       "credits": 100
     }
   }
