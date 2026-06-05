@@ -33,6 +33,11 @@
     {
       "id": "gemini-3-flash-preview",
       "name": "Gemini 3.0 Flash",
+      "provider": "google"
+    },
+    {
+      "id": "gemini-3.1-flash-lite",
+      "name": "Gemini 3.1 flash lite Preview",
       "provider": "google",
       "is_default": true
     },
@@ -40,11 +45,6 @@
       "id": "gemini-3.1-flash-lite-preview",
       "name": "Gemini 3.1 flash lite Preview",
       "provider": "google"
-    },
-    {
-      "id": "google/gemma-3-27b-it:free",
-      "name": "Gemma 3 27B",
-      "provider": "openrouter"
     }
   ]
 }
