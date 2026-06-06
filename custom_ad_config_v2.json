@@ -14,8 +14,8 @@
       "windows": false
     },
     "net.wsapps.homeoassistant": {
-      "android": true,
-      "windows": true
+      "android": false,
+      "windows": false
     }
   },
   "autoSlide": false,
