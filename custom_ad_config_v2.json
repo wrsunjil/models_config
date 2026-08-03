@@ -14,7 +14,7 @@
       "windows": false
     },
     "net.wsapps.banglaconverter": {
-      "android": true,
+      "android": false,
       "windows": false
     },
     "net.wsapps.homeoassistant": {
@@ -27,7 +27,7 @@
     "net.wsapps.alllawsofbangladesh": 58,
     "app.web.wsappsdevs.dalilbondhu": 10,
     "net.wsapps.golpokothok": 22,
-    "net.wsapps.banglaconverter": 26,
+    "net.wsapps.banglaconverter": 27,
     "net.wsapps.homeoassistant": 49
   },
   "ads": [
