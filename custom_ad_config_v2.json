@@ -13,6 +13,10 @@
       "android": false,
       "windows": false
     },
+    "net.wsapps.banglaconverter": {
+      "android": true,
+      "windows": false
+    },
     "net.wsapps.homeoassistant": {
       "android": false,
       "windows": false
