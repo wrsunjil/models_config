@@ -6,8 +6,8 @@
       "windows": false
     },
     "net.wsapps.alllawsofbangladesh": {
-      "android": false,
-      "windows": false
+      "android": true,
+      "windows": true
     },
     "app.web.wsappsdevs.dalilbondhu": {
       "android": false,
